@@ -1,0 +1,70 @@
+/*
+	Posicionamiento relativo de los span
+	Añadir color en los border
+*/
+
+#caja1{
+
+	border: 4px grey solid;
+	height: 150px;
+	width: 500px;
+
+}
+
+#caja2{
+
+	border: 4px grey solid;
+	height: 150px;
+	width: 500px;
+
+}
+
+#uno{
+
+	border: 4px red solid;
+	height: 30px;
+	width: 150px;
+	position: relative;
+	top: 0px;
+	left: 0px;
+
+}
+
+#dos{
+
+	border: 4px green solid;
+	height: 30px;
+	width: 150px;
+	position: relative;
+	left: 155px;
+}
+
+#tres{
+
+	border: 4px blue solid;
+	height: 30px;
+	width: 150px;
+	position: relative;
+	left: 310px;
+
+}
+
+#cuatro{
+
+	border: 4px yellow solid;
+	height: 30px;
+	width: 150px;
+	position: relative;
+	left: 310px;
+
+}
+
+#cinco{
+
+	border: 4px black solid;
+	height: 30px;
+	width: 150px;
+	position: relative;
+	left: 155px;
+
+}

@@ -1,0 +1,79 @@
+/*
+Vamos a trabajar con posicionamiento 
+absoluto y con z-index.
+*/
+
+body{
+
+	background-color: green;
+}
+
+div{
+
+	border: 1px black solid;
+	position: absolute;
+
+}
+
+div:hover{
+	
+	transform: scale(1.1);
+	z-index: 10;
+	cursor: pointer;
+}
+
+#asbastos{
+
+	top: 50px;
+	left: 50px;
+	z-index: 8;
+}
+
+#dosbastos{
+
+	top: 125px;
+	left: 125px;
+	z-index: 7;
+}
+
+#asoros{
+
+	top: 200px;
+	left: 200px;
+	z-index: 6;
+}
+
+#cuatrooros{
+
+	top: 275px;
+	left: 275px;
+	z-index: 5;
+}
+
+#ascopas{
+
+	top: 350px;
+	left: 350px;
+	z-index: 4;
+}
+
+#cuatrocopas{
+
+	top: 425px;
+	left: 425px;
+	z-index: 3;
+}
+
+#cuatroespadas{
+
+	top: 500px;
+	left: 500px;
+	z-index: 2;
+}
+
+#asespadas{
+
+	top: 575px;
+	left: 575px;
+	z-index: 1;
+}

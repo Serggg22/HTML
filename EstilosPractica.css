@@ -1,0 +1,54 @@
+ /*
+    trabajar:
+    
+        background-color
+        color
+
+*/
+
+#h1
+{
+    color: blue;
+}
+
+#h2
+{
+    color: green;
+}
+
+#div1
+{
+    background-color: yellow;
+}
+
+#div2
+{
+    background-color: grey;
+}
+
+#strong
+{
+    background-color: red;
+}
+
+#red_u
+{
+    color: red;
+}
+
+#yell
+{
+    color: yellow;
+}
+
+#blue_em
+{
+    color: white;
+    background-color: blue;
+}
+
+#black_bg
+{
+    background-color: black;
+    color: yellow;
+}
